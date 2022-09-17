@@ -5,7 +5,7 @@ link = argv[1]
 yt = YouTube(link)
 
 print("Title: ", yt.title)
-print("View: ", yt.views)
+print("Views: ", yt.views)  
 
 yd = yt.streams.get_highest_resolution()
 
