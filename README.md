@@ -2,6 +2,10 @@
 
 Use this to download youtube videos for free!
 
+install pytube and os modules
+PyTube: https://pytube.io/en/latest/user/install.html
+OS: https://pypi.org/project/os-sys/
+
 Type the following in cmd:
 For full video:
 
